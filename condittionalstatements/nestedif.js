@@ -1,4 +1,4 @@
-let isweekend = false;
+let isweekend = true;
 let time = 14;
 
 if(isweekend){
