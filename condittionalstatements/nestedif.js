@@ -1,5 +1,5 @@
 let isweekend = true;
-let time = 14;
+let time = 15;
 
 if(isweekend){
     if(time<12){
